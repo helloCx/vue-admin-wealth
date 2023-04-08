@@ -1,4 +1,4 @@
-import {Request} from "networking";
+import {Request} from "networking-ts";
 import type {AxiosResponse} from "axios";
 
 const res = new Request();

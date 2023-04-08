@@ -1,11 +1,11 @@
 {
   dependencies: {
     //example
-    'networking': {
-      dev: true,
-      name: 'networking',
-      source: 'git@github.com:helloCx/networking.git',
-      version: '0.0.1'
-    }
+//    'networking': {
+//      dev: false,
+//      name: 'networking-ts',
+//      source: 'git@github.com:helloCx/networking.git',
+//      version: '0.0.1'
+//    }
   }
 }

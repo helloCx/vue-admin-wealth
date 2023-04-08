@@ -20,7 +20,7 @@
     "pinia": "^2.0.32",
     "vue": "^3.2.47",
     "vue-router": "^4.1.6",
-    "networking": "git+ssh://git@github.com:helloCx/networking.git#0.0.1"
+    "networking-ts": "0.0.1"
   },
   "devDependencies": {
     "@arco-design/web-vue": "^2.44.7",
