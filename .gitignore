@@ -29,3 +29,9 @@ coverage
 
 test-results/
 playwright-report/
+
+rigs/*
+rig_dev/*
+.env.rig
+!rigs/.gitkeep
+!rig_dev/.gitkeep

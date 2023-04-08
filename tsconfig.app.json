@@ -10,7 +10,7 @@
   ],
   "compilerOptions": {
     "composite": true,
-    "baseUrl": "./vue-admin-wealth",
+    "baseUrl": "./",
     "paths": {
       "@/*": ["./src/*"]
     }
